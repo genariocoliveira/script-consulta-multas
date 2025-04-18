@@ -35,11 +35,12 @@ python leitor_planilha.py
  ```
 
 ## Estrutura de Arquivos
-script-multas/
+```script-multas/
 │
 ├── leitor_planilha.py     # Script Python principal
 ├── executar_programa.bat  # Arquivo batch para execução fácil
 └── README.md             # Documentação
+```
 
 ## Formato dos Dados
 A planilha Excel deve conter as seguintes colunas:

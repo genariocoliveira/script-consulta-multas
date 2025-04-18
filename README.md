@@ -22,13 +22,13 @@ Sistema em Python para consulta e exibição de informações de motoristas a pa
 2. Instale os pacotes necessários:
 ```bash
 pip install pandas openpyxl
+```
 
 ## Como Usar
 Existem duas formas de executar o aplicativo:
 
 1. Usando o arquivo batch:
-   
-   - Dê um duplo clique em executar_programa.bat
+   -Dê um duplo clique em executar_programa.bat
 2. Usando Python diretamente:
 ```bash
 python leitor_planilha.py
